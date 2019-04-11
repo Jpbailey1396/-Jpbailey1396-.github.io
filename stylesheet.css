@@ -1,0 +1,53 @@
+h1{
+	color: white;
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+h2{
+	color: white;
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+body{
+	background-color: cornflowerblue;
+}
+img{
+	width:300px;
+	height: auto;
+}
+a{
+	text-align: center;
+	color: blue;
+	font-family: 'Ubuntu', sans-serif;
+}
+.container {
+	height: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.item {
+	margin: 0 auto;
+	width: 80em;
+}
+.test {
+	position: relative;
+  	top: 35%;
+  	left: 50%;
+  	margin-top: -10px;
+  	margin-left: -150px;
+}
+.test2 {
+	position: relative;
+  	top: 35%;
+  	left: 50%;
+  	margin-top: -300px;
+  	margin-left: -135px;
+}
+.blah {
+	position: relative;
+}
+.blah2 {
+	margin-top: 100px;
+	position: relative;
+}
